@@ -52,7 +52,7 @@ SETUP:
   <a href="https://github.com/akverma24400">
     <img src="https://img.shields.io/badge/GitHub-akverma24400-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/akverma24400/">
+  <a href="https://www.linkedin.com/in/akashverma9193/">
     <img src="https://img.shields.io/badge/LinkedIn-Akash%20Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:akverma24400@gmail.com">
