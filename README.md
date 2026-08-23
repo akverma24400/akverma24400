@@ -394,7 +394,10 @@ If you have not added the workflow yet, comment out the image below.
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akverma24400/akverma24400/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img
+    src="https://raw.githubusercontent.com/akverma24400/akverma24400/output/github-contribution-grid-snake-dark.svg"
+    alt="Akash Verma Contribution Snake"
+  />
 </p>
 
 ---
