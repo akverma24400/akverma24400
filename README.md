@@ -342,7 +342,7 @@ I'm interested in opportunities where I can contribute, learn, automate, and bui
 - Site Reliability Engineering (SRE) — Entry Level
 - Platform / Infrastructure Engineering — Entry Level
 
----
+<!-- ---
 
 ## 📊 GitHub Statistics
 
@@ -368,7 +368,7 @@ I'm interested in opportunities where I can contribute, learn, automate, and bui
   />
 </p>
 
----
+--- -->
 
 ## 📈 Contribution Activity
 
