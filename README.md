@@ -24,7 +24,7 @@ SETUP:
 <p align="center">
   <!-- ADD YOUR CUSTOM BANNER HERE -->
   <!-- Recommended size: 1600 x 450 px -->
-  <img src="./assets/github-banner.png" width="100%" alt="Akash Verma - DevOps & Cloud Engineer Banner" />
+  <img src="./assets/github-banner.png.png" width="100%" alt="Akash Verma - DevOps & Cloud Engineer Banner" />
 </p>
 
 <!-- If you do not want a custom banner yet, temporarily remove/comment the image above. -->
